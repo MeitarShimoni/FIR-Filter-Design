@@ -34,14 +34,14 @@ The main objectives of this project are:
 
 ## Outputs and Visualizations
 
-### Fourier Transform of the Generated Signal
-
-<img src="images/fourier_transform.png" width="400" alt="Fourier Transform">
-
-### FIR Bandstop Filter Response
-
-<img src="images/fir_bandstop_filter.png" width="400" alt="FIR Bandstop Filter">
-
+<div align="center">
+    <img src="images/fourier_transform.png" width="400" alt="Fourier Transform">
+    <img src="images/fir_bandstop_filter.png" width="400" alt="FIR Bandstop Filter">
+</div>
+<div align="center">
+    <img src="images/frequency_domain_filter.png" width="400" alt="Frequency Domain Filter">
+    <img src="images/lccd_filter.png" width="400" alt="LCCD Filter">
+</div>
 
 ## Conclusion
 
