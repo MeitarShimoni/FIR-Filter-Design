@@ -36,11 +36,11 @@ The main objectives of this project are:
 
 ### Fourier Transform of the Generated Signal
 
-![Fourier Transform](images/fourier_transform.png)
+<img src="images/fourier_transform.png" width="400" alt="Fourier Transform">
 
 ### FIR Bandstop Filter Response
 
-![FIR Bandstop Filter](images/fir_bandstop_filter.png)
+<img src="images/fir_bandstop_filter.png" width="400" alt="FIR Bandstop Filter">
 
 
 ## Conclusion
