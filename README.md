@@ -35,24 +35,12 @@ The main objectives of this project are:
 ## Outputs and Visualizations
 
 <div align="center">
-    <figure>
-        <img src="images/fourier_transform.png" width="400" alt="Fourier Transform">
-        <figcaption>Fourier Transform of the Generated Signal</figcaption>
-    </figure>
-    <figure>
-        <img src="images/fir_bandstop_filter.png" width="400" alt="FIR Bandstop Filter">
-        <figcaption>FIR Bandstop Filter Response</figcaption>
-    </figure>
+    <img src="images/fourier_transform.png" width="400" alt="Fourier Transform">
+    <img src="images/fir_bandstop_filter.png" width="400" alt="FIR Bandstop Filter">
 </div>
 <div align="center">
-    <figure>
-        <img src="images/frequency_domain_filter.png" width="400" alt="Frequency Domain Filter">
-        <figcaption>Effect of Custom Frequency Domain Filter</figcaption>
-    </figure>
-    <figure>
-        <img src="images/lccd_filter.png" width="400" alt="LCCD Filter">
-        <figcaption>Linear Combination Filter Design (LCCD)</figcaption>
-    </figure>
+    <img src="images/frequency_domain_filter.png" width="400" alt="Frequency Domain Filter">
+    <img src="images/lccd_filter.png" width="400" alt="LCCD Filter">
 </div>
 
 ## Conclusion
